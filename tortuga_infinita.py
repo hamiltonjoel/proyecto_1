@@ -1,0 +1,15 @@
+import turtle
+ventana = turtle.Screen()
+poper= turtle.Turtle()
+poper.shape("turtle")
+poper.color("red")
+poper.width(2)
+poper.fd(100)
+poper.lt(90)
+poper.fd(100)
+poper.lt(90)
+poper.fd(100)
+poper.lt(90)
+poper.fd(100)
+
+turtle.done()
